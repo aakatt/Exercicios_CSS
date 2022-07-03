@@ -1,0 +1,28 @@
+* {
+    padding: 20px;
+}
+
+body{
+    background: rgb(213, 213, 213);
+}
+
+.vermelho{
+    color: red;
+}
+
+.center{
+    text-align: center;
+}
+
+.fonte-30{
+    font-size: 30px;
+}
+
+#teste{
+    color: blue;
+    background: yellow;
+}
+
+#link{
+    text-align: center;
+}
