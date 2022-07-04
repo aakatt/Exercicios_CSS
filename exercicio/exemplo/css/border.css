@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.titulo-imagem{
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    background-color: rgb(112, 115, 117);
+
+}
+
+p{
+    color: red;
+}
+.exemplo-border{
+    background: gray url(../img/border.jpg) no-repeat center;
+    height: 400px;
+    background-size: contain;
+}
+
